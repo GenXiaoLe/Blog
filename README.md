@@ -7,6 +7,7 @@
 
 #### web相关
 [1.网络安全之常见的web攻击](https://github.com/GenXiaoLe/blog/issues/2)
+[2.webpack基础篇](https://github.com/GenXiaoLe/Blog/issues/4)
 
 #### 代码组件
 [1.flutter中如何监听键盘弹出关闭](https://github.com/GenXiaoLe/blog/issues/3)
